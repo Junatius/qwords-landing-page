@@ -11,7 +11,7 @@
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Cloud Hosting</a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li>
+            <li class="dropdown-item">
               <div class="row">
                 <div class="col-lg-6">
                   <a href="https://qwords.com/v2/hosting-murah" class="ct-navbar__dropdown-link">
@@ -33,7 +33,7 @@
                 </div>
               </div>	
             </li>							
-            <li>
+            <li class="dropdown-item">
               <div class="row">
                 <div class="col-lg-6">
                   <a href="https://qwords.com/v2/high-performance-cloud-hosting" class="ct-navbar__dropdown-link">
@@ -55,7 +55,7 @@
                 </div>
               </div>	
             </li>
-            <li>
+            <li class="dropdown-item">
               <div class="row">
                 <div class="col-lg-6">
                   <a href="https://qwords.com/v2/unlimited-hosting" class="ct-navbar__dropdown-link">

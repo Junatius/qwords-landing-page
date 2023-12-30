@@ -20,7 +20,7 @@
 						<p><span class="text-qw-primary" style="font-size: 25px;font-weight: 800;">#QwordsYourSuccess</span>
 					</div>
 					<a href="#featured-card">
-						<button class="btn btn-lg-cta px-5 pb-5">Pesan Sekarang</button>
+						<button class="btn btn-warning p-2 px-5 rounded-5">Pesan Sekarang</button>
 					</a>
 				</div>
 			</div>

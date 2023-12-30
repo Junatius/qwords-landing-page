@@ -18,12 +18,14 @@
 								<div class="input-group input-group-lg">
 									<select id="select-tld" class="form-select border-0">
 										<option selected value=".id">.id</option>
+										<option selected value=".id">.com</option>
+										<option selected value=".id">.info</option>
 									</select>
 								</div>
 							</div>
 							<div class="col-12 col-lg-2 mt-3 mt-lg-0">
 								<div class="d-grid">
-									<button type="button" class="btn btn-lg-cta-black" id="btn-checkdomain">Cari</button>
+									<button type="button" class="btn btn-dark rounded-5" id="btn-checkdomain" style="height: 4.2rem; font-size: 20px;">Cari</button>
 								</div>
 							</div>
 						</form>
@@ -95,7 +97,7 @@
 		</div>
 		<div class="row justify-content-center">
 			<div class="col-12 col-sm-6 col-lg-3 mb-3">
-				<div class="card p-3 border-0 shadow-lg rounded-card" style="height: 20rem">
+				<div class="card p-3 border-0 shadow-lg rounded-card" style="border-radius: 1rem !important;">
 					<div class="card-heading mb-2">
 						<h3 class="mb-2 h3home">Value Cloud Hosting</h3>
 						<h4 class="fw-bold">VCH1</h4>
@@ -143,12 +145,12 @@
 						</div>
 					</div>
 					<div class="d-grid mt-auto">
-						<a href="https://portal.qwords.com/order/?pid=528&billingcycle=annually" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+						<a href="https://portal.qwords.com/order/?pid=528&billingcycle=annually" class="btn btn-warning rounded-5">Pesan Sekarang</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-12 col-sm-6 col-lg-3 mb-3">
-				<div class="card p-3 border-0 shadow-lg rounded-card">
+				<div class="card p-3 border-0 shadow-lg rounded-card" style="border-radius: 1rem !important;">
 					<div class="card-heading mb-2">
 					    <h3 class="mb-2 h3home">Unlimited Hosting</p>
 						<h4 class="fw-bold">Signature</h4>
@@ -196,12 +198,12 @@
 						</div>
 					</div>
 					<div class="d-grid mt-auto">
-						<a href="https://portal.qwords.com/order/?promocode=FRSTTMESGN&pid=392" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+						<a href="https://portal.qwords.com/order/?promocode=FRSTTMESGN&pid=392" class="btn btn-warning rounded-5">Pesan Sekarang</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-12 col-sm-6 col-lg-3 mb-3">
-				<div class="card p-3 border-0 shadow-lg rounded-card">
+				<div class="card p-3 border-0 shadow-lg rounded-card" style="border-radius: 1rem !important;">
 					<div class="card-heading mb-2">
 					    <h3 class="mb-2 h3home">High Performance</h3>
 						<h4 class="fw-bold">HPCH Bisnis 1</h4>
@@ -249,12 +251,12 @@
 						</div>
 					</div>
 					<div class="d-grid mt-auto">
-						<a href="https://portal.qwords.com/order/?pid=596&billingcycle=annually" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+						<a href="https://portal.qwords.com/order/?pid=596&billingcycle=annually" class="btn btn-warning rounded-5">Pesan Sekarang</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-12 col-sm-6 col-lg-3 mb-3">
-				<div class="card p-3 border-0 shadow-lg rounded-card">
+				<div class="card p-3 border-0 shadow-lg rounded-card" style="border-radius: 1rem !important;">
 					<div class="card-heading mb-2">
 					    <h3 class="mb-2 h3home">Cloud VPS KVM SSD</h3>
 						<h4 class="fw-bold">VPS SC1</h4>
@@ -302,7 +304,7 @@
 						</div>
 					</div>
 					<div class="d-grid mt-auto">
-						<a href="https://portal.qwords.com/order/?pid=634&billingcycle=annually" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+						<a href="https://portal.qwords.com/order/?pid=634&billingcycle=annually" class="btn btn-warning rounded-5">Pesan Sekarang</a>
 					</div>
 				</div>
 			</div>
@@ -334,14 +336,14 @@
 							engine dengan menggunakan SSL Certificate.
 						</p>
 					</div>
-					<div class="card-price mb-4">
+					<div class="card-price mt-4 mb-4">
 						<p class="mb-2">Mulai dari</p>
 						<p class="text-qw-primary fw-bold pricehome">
 							Rp. 112.000<span class="fs-6 text-dark fw-light"> / tahun</span>
 						</p>
 					</div>
 					<div class="d-grid mt-auto">
-						<a href="https://www.qwords.com/v2/services/secured-sockets-layer-certificate/" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+						<a href="https://www.qwords.com/v2/services/secured-sockets-layer-certificate/" class="btn btn-warning rounded-5">Pesan Sekarang</a>
 					</div>
 				</div>
 			</div>
@@ -359,14 +361,14 @@
 							seluruh dunia tanpa batas
 						</p>
 					</div>
-					<div class="card-price mb-4">
+					<div class="card-price mt-4 mb-4">
 						<p class="mb-2">Mulai dari</p>
 						<p class="text-qw-primary fw-bold pricehome">
 							Rp. 499.000<span class="fs-6 text-dark fw-light"> / bulan</span>
 						</p>
 					</div>
 					<div class="d-grid mt-auto">
-						<a href="https://www.qwords.com/v2/dedicated-server/dedicated-box/" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+						<a href="https://www.qwords.com/v2/dedicated-server/dedicated-box/" class="btn btn-warning rounded-5">Pesan Sekarang</a>
 					</div>
 				</div>
 			</div>
@@ -384,14 +386,14 @@
 							monitoring dengan cooling system terbaik serta fire extinguisher
 						</p>
 					</div>
-					<div class="card-price mb-4">
+					<div class="card-price mt-4 mb-4">
 						<p class="mb-2">Mulai dari</p>
 						<p class="text-qw-primary fw-bold pricehome">
 							Rp. 500.000<span class="fs-6 text-dark fw-light"> / bulan</span>
 						</p>
 					</div>
 					<div class="d-grid mt-auto">
-						<a href="https://www.qwords.com/v2/dedicated-server/colocation-server/" class="btn btn-cta rounded-5">Pesan Sekarang</a>
+						<a href="https://www.qwords.com/v2/dedicated-server/colocation-server/" class="btn btn-warning rounded-5">Pesan Sekarang</a>
 					</div>
 				</div>
 			</div>
