@@ -90,7 +90,7 @@
 					Cloud Hosting Indonesia
 					<span class="text-qw-primary">Diskon Hingga 50%</span>
 				</h2>
-				<p class="my-4">
+				<p class="my-4 pb-4">
 					Layanan cloud hosting indonesia terbaik dengan teknologi andal untuk website anda
 				</p>
 			</div>
